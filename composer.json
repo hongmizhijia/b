@@ -1,3 +1,7 @@
 {
-  "name": "hongmizhijia/b"
+    "name": "phpdocumentor/template-abc",
+    "type": "phpdocumentor-template",
+    "require": {
+        "phpdocumentor/template-installer-plugin": "*"
+    }
 }
